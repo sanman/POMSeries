@@ -1,6 +1,7 @@
-public class ProfilePage(){
+package com.qa.opencart.pages;
 
-  public void profPage(){
-    System.out.println("add a profile page ....");
+public class ProfilePage {
+	public void profPage(){
+		System.out.println("add a profile page ....");
   }
 }
